@@ -11,7 +11,7 @@
 
 # Element X iOS
 
-Element X iOS is the next-generation [Matrix](https://matrix.org/) client provided by [Element](https://element.io/).
+5*Element iOS is the next-generation [Matrix](https://matrix.org/) client provided by [Element](https://element.io/).
 
 Compared to the previous-generation [Element Classic](https://github.com/element-hq/element-ios), it is a total rewrite using the [Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk) underneath and targeting devices running iOS 17+.
 

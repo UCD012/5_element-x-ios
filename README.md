@@ -9,9 +9,9 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=element-x-ios&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=element-x-ios)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=element-x-ios&metric=bugs)](https://sonarcloud.io/summary/new_code?id=element-x-ios)
 
-# Element X iOS
+# 5*Element iOS
 
-5*Element iOS is the next-generation [Matrix](https://matrix.org/) client provided by [Element](https://element.io/).
+5*Element iOS is the next-generation [Matrix](https://matrix.org/) fork client  [Element](https://element.io/).
 
 Compared to the previous-generation [Element Classic](https://github.com/element-hq/element-ios), it is a total rewrite using the [Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk) underneath and targeting devices running iOS 17+.
 
